@@ -30,7 +30,7 @@ Si estás en Mac o Linux, probablemente veas una `$`, como ésta:
 
 {% filename %}command-line{% endfilename %}
 
-    $
+    $ test
     
 
 <!--endsec-->
